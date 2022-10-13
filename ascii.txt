@@ -1,44 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>drive all night</title>
-    <style>
-      html,
-      body,
-      .content {
-        height: 100%;
-        width: 100%;
-        padding: 0;
-        margin: 0;
-      }
-      .content {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-      .image {
-        font-size: 0.75rem;
-        font-weight: 100;
-      }
-      .image .bandname {
-        color: red;
-        font-weight: 900;
-      }
-      .image a {
-        color: inherit;
-        text-decoration: none;
-      }
-      .image a:hover {
-        color: red;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="content">
-      <pre class="image">
+NNNNNNNNNNNN0kxoccc::ccclllllokKXXXKXNNNNNNNNNNNNN
+NNNNNNNNNNKxc::;;:cll:;;;,;,;;:clooodk0XXXNXNNNNNN
+NNNNNNNNN0l;;;;;cdk0Odc;:cccloooc;,,;;lOXXXXXXXNXN
+NNNXKXX0xc;,,;;codddddoccllc:cx00d:,,,,;lkKXXXXXXX
+NNNK0Odc:;,;,,;;:;;;,,;:cc:::cdkkdooc;,,,;xXXXXXXX
+XXNX0xc;;;;,,,,,,,:loxk0KKKK0KK0Okkkkl,,,'c0XXXXXX
+NXXKxl;,,,,,,,;ldk0XNNXXXXXXXXXXXXXXKkl;,';dKXXXXX
+NNKkc;,,,,,;ldOXNNXXXXXXXXXXXXXXXXXXX0o;,'':OXXXXX
+NN0o;,,,,;o0KXXXXXXXXXXXXXXK0kkOKXXXX0l'''':OXXXXX
+XXOc,,,,,cOOllodxx0XXXKkoooc:,;lx0XXXKl''',oKXXXXX
+XXOl;,,,,dXKOl,,;o0XXXX0o;,',,o0XXXXXKl;:clOXXXXXX
+XNKd;,,':ONXX0c:kKXXXXXXOoldO0KXXXXXX0loKOlxXXXXXX
+NNNKo,,':ONXNKolKXXXXXXXXXKXXXXXXXXXXO:oXKcc0NXXXX
+NNNNKl,',d0XNKolKXXXXXXXXXXXXXXXXXXXkc,lK0c:xKXNXX
+NXOxoc;,,,:o0XxdKXKKKXXXXXXXXXXXXXXx:,,:ol;ckxod0X
+xl:lxkl,,'',:dk0K0xlloodddxxxxxkOOd;,,,ll:xKk:cxxo
+l::kNKo,'',,,,,cdlcoddxxxxxxl;,;;;,,;,;xdc0KlcOKx:
+Kk;:kXx,',:;,,',,,oKKKKK0Okdl,,,,,,,,;oKdcO0xkkl;c
+dkl,:dd;;dKOl,,''':olcc::;;,,'',',,,,lKNxcOXOo:;;c
+;c:,,;;,oXNN0l;,',,,,,,,,,,',''',',cxKNNOd0Kl,,,,,
+;;;;:c:,:xKNNK0x;,,,,,,,'''',,;:cldKNNNNXXN0c,,;ld
+;;;:ol:;;:lxKNNXk;;oo:,;lddxkO0KXXNNNNNNXXKx:;lkXN
+l;ckXk:,;;::lkKNKclKNx;oXNNNNNNNNNNNK0kkxdo:;dXNNN
+k:xNWKl,;;;;;;l00clKNO:xNNNNNNXKkdxdlc:::::cxKNNNN
+kcdXWNx;;;;;;;;cxcc0Nk:xNNNXKkdc:;;::cc::cxKNNNNNN
+
 NWNNNNNNNNNNNNNNNNNNNNNNNNNX0OOkdlc::::::cldooxxodxkkxxxxxkkKNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNNNNNNNNNNNNNNNNNNN0kxxolc:::ccccc:;;;;;;;;:ccc::;:cllx0KXXNXXXKKXXNNNXXXNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNNNNNNNNNNNNNNNNNKkcclc:::::::::;;;;;;;;;;;;;;;;;;;:::cldkO00Okxxk00KXXXNNXXNNNNNNNXNNNNNNNNNN
@@ -83,18 +68,9 @@ o0XXx;,,,:d0NO:,,,,,d00x:,,,,,,''''''lO0kkxxxdoollc:,,,,,,,,,,,,,,,,,,,,,,,c0NNX
 ;;;;;;;;:;cl::;,,;ldOXNNNNNNNNN0c,,,,,,,,,,,,,,,,'''''''''''',;:clooxKNNNNNNNNNNNNNNNNKo;,,,,,,;okxo
 ;;;;;;;:::lxlc:,,;;:cdOKNNNNNNNNOc,,,,,,,,,,,,,,,,'''',:cloodk0KXXXNNNNNXNNNNNNNNNNNNNKd;,,;;;:xXNNN
 ;;;;;;;;ldo:;;;;;;:::::oONNNNNNNN0l,,;okdoo:,,,,;ldxxxOKXXNNNNNNNNNNNNNNNNNNNNNNNXKXXOo:;;,;lxKNNNNN
-l:;;;;;c0NKd:;;;;;;:::::cd0NNNNNNNO:':ONNNXx;''cOXNNNNNNNNNNNNNN <span class="bandname">drive all night</span> xxOkdc;;;:kXNNNNNNN
+l:;;;;;c0NKd:;;;;;;:::::cd0NNNNNNNO:':ONNNXx;''cOXNNNNNNNNNNNNNNNNNNNNNNNNNNNXXNKxxOkdc;;;:kXNNNNNNN
 0l;;;:d0XNNKl;;;;;;;;;;;;;cd0XNNNNx;':0NNXN0c',dXNNNNNNNNNNNNNNNNNNNNNNNXKKKxodxxlddl::;;;dXNNNNNNNN
 Nk:;:xXNNNNNx;;;;,;;;;;;;;;;:xKNNNx;'c0NNNNKl';kNNNNNNNNNNNNNNNNNXKKXXKOdccc::::cccl:;;;:oKNNNNNNNNN
 NOc;:xXNNNNNO:;;;;;;:;;;;;;;;;l0NNx;':ONNNNKo';kNNNNNNNNNNNNNNN0xlccooc:::::::::;;:::::cdKNNNNNNNNNN
 Nkc::oKWNNNWXo;;;;;;;;;;;:;;;;;cxKk;,;kNXXXKo';ONNNNNNNNXXKOxdoc;;;;;:::::::cc::::::ok0KXNNNNNNNNNNN
 NKo::oKWNNNWWO:;;,;;;;;:::;;;;;;:od;,;kNXXKk:,;kNXXXXXXKkdlc;;;;;;;:::::::::cc::::cxXNNNNNNNNNNNNNNN
-
-
-
-<a href="http://driveallnight.band">music</a>                          <a href="http://driveallnight.band">merch</a>                          <a href="http://driveallnight.band">about</a>                          <a href="http://driveallnight.band">contact</a>
-
-</pre>
-    </div>
-  </body>
-</html>
